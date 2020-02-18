@@ -1,0 +1,13 @@
+div.meteor{
+  position:absolute;
+  min-height: 1vh;
+  min-width:1vh;
+  background-color:white;
+  border-radius:50%;
+}
+.field{
+  min-height:100vh;
+  min-width:100vw;
+  background-color:black;
+  margin:0px;
+}
